@@ -19,13 +19,13 @@
 - 🌱 I’m currently experimenting with **RUST**  building <a href="https://github.com/RachidBoufous/candle" target="blank"> Candle🕯️- a terminal based text editor</a>
 - 💬 ask me about anything, i am happy to help.
 
+</div>
 
 $~$
 
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=Monokai&theme=dracula" alt="Readme Quotes">
 
-</div>
 
 
 
