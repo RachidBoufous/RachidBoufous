@@ -13,12 +13,11 @@
 # About me:
 - 🔭 I’m currently working on [Calleebree](https://www.calleebree.io) at [LAEDX](https://www.laedx.com/) and [TWISTAG](https://twistag.com/)
 - 🌱 I’m currently experimenting with **RUST**  building <a href="https://github.com/RachidBoufous/candle" target="blank"> Candle🕯️- a terminal based text editor</a>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&pause=1000&multiline=true&random=true&width=646&lines=-+%F0%9F%92%AC+Ask+me+about+anything%2C+I+am+happy+to+help.++)](https://git.io/typing-svg)
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=Monokai&theme=dracula" alt="Readme Quotes">
+<!-- <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=Monokai&theme=dracula" alt="Readme Quotes">
 
   
-  
+   -->
 
 <div style="text-align:left;">
 
