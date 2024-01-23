@@ -22,7 +22,7 @@
 
 
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=Monokai&border=true&theme=dracula" alt="Readme Quotes">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=Monokai&theme=dracula" alt="Readme Quotes">
 
 </div>
 
