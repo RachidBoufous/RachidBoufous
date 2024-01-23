@@ -8,7 +8,8 @@
 
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&duration=2000&pause=1000&color=000000&multiline=true&random=false&width=646&height=55&lines=The+Game+ends+%F0%9F%91%BE++when+the+king+%F0%9F%91%91+falls.;Not+when+a+pawn+%F0%9F%A4%B7%E2%80%8D%E2%99%82%EF%B8%8F+takes+your+queen.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&duration=2000&pause=1000&color=000000&multiline=true&random=false&width=646&height=90&lines=Memento+Mori+%F0%9F%92%80;Memento+Vivere+%F0%9F%A7%AC;Vivamus+Moriendum+Est.+)](https://git.io/typing-svg)
+
 # About me:
 - 🔭 I’m currently working on [Calleebree](https://www.calleebree.io) at [LAEDX](https://www.laedx.com/) and [TWISTAG](https://twistag.com/)
 - 🌱 I’m currently experimenting with **RUST**  building <a href="https://github.com/RachidBoufous/candle" target="blank"> Candle🕯️- a terminal based text editor</a>
