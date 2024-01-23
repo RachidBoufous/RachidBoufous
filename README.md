@@ -26,15 +26,6 @@
 
 </div>
 
-<br>
-
-<div>
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=marshallbfs)
-
-</div>
-
-</div>
 
 
 <div style="text-align:left;">
