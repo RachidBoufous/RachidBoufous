@@ -27,6 +27,11 @@
 
 # Github Stats:
 
+
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RachidBoufous&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RachidBoufous&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 <div style="display:flex;align-items:center;justify-content:space-between;margin:20px">
 <img src="http://github-readme-streak-stats.herokuapp.com?user=RachidBoufous&theme=dark&hide_border=true&border_radius=5.9&date_format=M%20j%5B%2C%20Y%5D&card_width=400&hide_current_streak=true&hide_longest_streak=true" alt="Trophies"  >
 <img src="http://github-readme-streak-stats.herokuapp.com?user=RachidBoufous&theme=dark&hide_border=true&border_radius=5.9&date_format=M%20j%5B%2C%20Y%5D&card_width=400&hide_total_contributions=true&hide_longest_streak=true" alt="Trophies"  >
