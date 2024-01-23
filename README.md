@@ -32,16 +32,9 @@
 |<img align="center" src="https://github-readme-stats.vercel.app/api?username=RachidBoufous&show_icons=true&hide_border=true" alt="Rachid Boufous github stats" />| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RachidBoufous&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
 
-<div style="display:flex;align-items:center;justify-content:space-between;margin:20px">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=RachidBoufous&theme=dark&hide_border=true&border_radius=5.9&date_format=M%20j%5B%2C%20Y%5D&card_width=400&hide_current_streak=true&hide_longest_streak=true" alt="Trophies"  >
-<img src="http://github-readme-streak-stats.herokuapp.com?user=RachidBoufous&theme=dark&hide_border=true&border_radius=5.9&date_format=M%20j%5B%2C%20Y%5D&card_width=400&hide_total_contributions=true&hide_longest_streak=true" alt="Trophies"  >
-<img src="http://github-readme-streak-stats.herokuapp.com?user=RachidBoufous&theme=dark&hide_border=true&border_radius=5.9&date_format=M%20j%5B%2C%20Y%5D&card_width=400&hide_total_contributions=true&hide_current_streak=true" alt="Trophies"  >
+| <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=RachidBoufous&theme=whatsapp-light2&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=800&type=png)](https://git.io/streak-stats" alt="Rachid Boufous github stats" /> |
 
 
-
-
-
-</div>
 
 
 <div style="display:flex;align-items:center;justify-content:space-around;margin:20">
