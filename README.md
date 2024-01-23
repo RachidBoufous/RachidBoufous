@@ -12,17 +12,11 @@
 
 
 # About me:
-<div style="display:flex;align-items:center;justify-content:space-between;">
-<div style="text-align:left;">
-
 - 🔭 I’m currently working on [Calleebree](https://www.calleebree.io) at [LAEDX](https://www.laedx.com/) and [TWISTAG](https://twistag.com/)
 - 🌱 I’m currently experimenting with **RUST**  building <a href="https://github.com/RachidBoufous/candle" target="blank"> Candle🕯️- a terminal based text editor</a>
 - 💬 ask me about anything, i am happy to help.
 
-</div>
-
-$~$
-
+\s
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=Monokai&theme=dracula" alt="Readme Quotes">
 
