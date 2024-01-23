@@ -9,7 +9,7 @@
 </div>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&duration=1000&pause=1000&color=2B00F7&random=false&width=646&lines=The+Game+ends+%F0%9F%91%BE++when+the+king+%F0%9F%91%91+falls;Not+when+the+a+pawn+%F0%9F%A4%B7%E2%80%8D%E2%99%82%EF%B8%8F+take+your+queen.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=30&duration=2000&pause=1000&color=000000&random=false&width=646&lines=The+Game+ends+%F0%9F%91%BE++when+the+king+%F0%9F%91%91+falls;Not+when+the+a+pawn+%F0%9F%A4%B7%E2%80%8D%E2%99%82%EF%B8%8F+take+your+queen.)](https://git.io/typing-svg)
 
 # About me:
 - 🔭 I’m currently working on [Calleebree](https://www.calleebree.io) at [LAEDX](https://www.laedx.com/) and [TWISTAG](https://twistag.com/)
