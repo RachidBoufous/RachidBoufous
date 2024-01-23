@@ -31,12 +31,6 @@
 <img src="http://github-readme-streak-stats.herokuapp.com?user=RachidBoufous&theme=dark&hide_border=true&border_radius=5.9&date_format=M%20j%5B%2C%20Y%5D&card_width=400&hide_current_streak=true&hide_longest_streak=true" alt="Trophies"  >
 <img src="http://github-readme-streak-stats.herokuapp.com?user=RachidBoufous&theme=dark&hide_border=true&border_radius=5.9&date_format=M%20j%5B%2C%20Y%5D&card_width=400&hide_total_contributions=true&hide_longest_streak=true" alt="Trophies"  >
 <img src="http://github-readme-streak-stats.herokuapp.com?user=RachidBoufous&theme=dark&hide_border=true&border_radius=5.9&date_format=M%20j%5B%2C%20Y%5D&card_width=400&hide_total_contributions=true&hide_current_streak=true" alt="Trophies"  >
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only" alt="Trophies" style="width:400" >
-
-
-
 </div>
 
 
