@@ -34,7 +34,7 @@
 </div>
 
 
-<div style="display:flex;align-items:center;justify-content:space-around">
+<div style="display:flex;align-items:center;justify-content:space-around;margin:20">
 <img src="https://github-profile-trophy.vercel.app/?username=RachidBoufous&theme=flat&margin-w=20&margin-h=20&no-bg=true&rank=SECRET,S,SS,S,AAA,AA,A,B,C&row=2&column=4" alt="Trophies" style="width: 100%; margin:20px" >
 </div>
 
