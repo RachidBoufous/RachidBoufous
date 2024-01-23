@@ -14,7 +14,7 @@
 # About me:
 - 🔭 I’m currently working on [Calleebree](https://www.calleebree.io) at [LAEDX](https://www.laedx.com/) and [TWISTAG](https://twistag.com/)
 - 🌱 I’m currently experimenting with **RUST**  building <a href="https://github.com/RachidBoufous/candle" target="blank"> Candle🕯️- a terminal based text editor</a>
-- 💬 ask me about anything, i am happy to help.  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=-+%F0%9F%92%AC+Ask+me+about+anything%2C+I+am+happy+to+help.++)](https://git.io/typing-svg)
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=Monokai&theme=dracula" alt="Readme Quotes">
 
