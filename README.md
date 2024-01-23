@@ -29,7 +29,7 @@
 
 
 
-|<img align="center" src="https://github-readme-stats.vercel.app/api?username=RachidBoufous&show_icons=true&hide_border=false" alt="Rachid Boufous github stats" />| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RachidBoufous&layout=compact&theme=buefy&hide_border=true" /> |
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=RachidBoufous&show_icons=true&hide_border=true" alt="Rachid Boufous github stats" />| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RachidBoufous&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
 
 <div style="display:flex;align-items:center;justify-content:space-between;margin:20px">
