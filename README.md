@@ -61,7 +61,7 @@
 
 
 <div style="display:flex;align-items:center;justify-content:space-around;margin:20">
-<img src="https://github-profile-trophy.vercel.app/?username=RachidBoufous&theme=algolia&margin-w=10&margin-h=10&no-bg=true&rank=SECRET,S,SS,S,AAA,AA,A,B,C&row=2&column=4" alt="Trophies" style="width: 100%;" >  
+<img src="https://github-profile-trophy.vercel.app/?username=RachidBoufous&theme=algolia&margin-w=5&margin-h=5&no-bg=true&rank=SECRET,S,SS,S,AAA,AA,A,B,C&row=2&column=4" alt="Trophies" style="width: 100%;" >  
 </div>
 
 
