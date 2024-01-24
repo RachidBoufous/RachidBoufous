@@ -35,7 +35,7 @@
 - 🤓 Ask me Anything, If i don't know the answer i will probably lie about it - but ask me anyway -
 
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=Monokai&theme=dracula" style="width:80%">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=Monokai&theme=dracula" style="width:100%">
 </div>
 
 # Github Stats:
@@ -80,7 +80,7 @@
 
 
 
-# Stalk me :
+# Stalk me 😒:
 
 
 <div align="center">
