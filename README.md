@@ -22,11 +22,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=25&duration=2000&pause=1000&color=000000&center=true&multiline=true&random=false&width=1000&height=100&lines=Memento+Mori+%F0%9F%92%80;Memento+Vivere+%F0%9F%A7%AC;Vivamus+Moriendum+Est.+)](https://git.io/typing-svg)
 
 
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=RachidBoufous&label=PROFILE+VIEWS+👁️+%20+%20+%20)
-
-</div>
 
 
 
@@ -47,6 +42,11 @@
 # Github Stats:
 
 
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=RachidBoufous&label=PROFILE+VIEWS+👁️+%20+%20+%20)
+
+</div>
 
 |<img align="center" src="https://github-readme-stats.vercel.app/api?username=RachidBoufous&show_icons=true&hide_border=true" alt="Rachid Boufous github stats" />| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RachidBoufous&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
