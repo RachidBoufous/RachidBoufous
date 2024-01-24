@@ -34,11 +34,6 @@
 - 🌱 I’m currently experimenting with **RUST**  building <a href="https://github.com/RachidBoufous/candle" target="blank"> Candle🕯️- a terminal based text editor</a>
 - 🤓 Ask me Anything, If i don't know the answer i will probably lie about it - but ask me anyway -
 
-<!-- <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=Monokai&theme=dracula" alt="Readme Quotes">
-
-  
-   -->
-
 <div style="text-align:left;">
 
 </div>
@@ -87,6 +82,7 @@
 
 
 <div style="text-align:center;">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=Monokai&theme=dracula" style="width:100%">
 <img src="assets/bottom-banner.gif" alt="Readme Quotes" style="width:100%">
 </div>
 
