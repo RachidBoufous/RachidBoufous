@@ -84,7 +84,7 @@
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=Monokai&theme=dracula" style="width:80%">
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&width=600)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&width=10000)
 
 </div>
 
