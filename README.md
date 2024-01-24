@@ -1,7 +1,7 @@
 
 
 <div style="text-align:center;">
-<div align="center">
+<div align="left">
 
 ![](https://komarev.com/ghpvc/?username=RachidBoufous&label=PROFILE+VIEWS+👁️+%20+%20+%20)
 
