@@ -34,8 +34,8 @@
 - 🌱 I’m currently experimenting with **RUST**  building <a href="https://github.com/RachidBoufous/candle" target="blank"> Candle🕯️- a terminal based text editor</a>
 - 🤓 Ask me Anything, If i don't know the answer i will probably lie about it - but ask me anyway -
 
-<div style="text-align:left;">
-
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=Monokai&theme=dracula" style="width:80%">
 </div>
 
 # Github Stats:
@@ -80,15 +80,14 @@
 
 
 
+# Stalk me :
+
 
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=Monokai&theme=dracula" style="width:80%">
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=marshallbfs&width=1000)
 
 </div>
-
-
 
 
 
