@@ -20,11 +20,12 @@
 
 &nbsp;
 &nbsp;
-&nbsp;
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=25&duration=2000&pause=1000&color=000000&center=true&multiline=true&random=false&width=1000&height=100&lines=Memento+Mori+%F0%9F%92%80;Memento+Vivere+%F0%9F%A7%AC;Vivamus+Moriendum+Est.+)](https://git.io/typing-svg)
 
-
+&nbsp;
+&nbsp;
 
 
 
