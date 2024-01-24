@@ -86,8 +86,9 @@
 
 
 
-
-
+<div style="text-align:center;">
+<img src="assets/bottom-banner.gif" alt="Readme Quotes" style="width:100%">
+</div>
 
 
 
