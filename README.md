@@ -81,9 +81,9 @@
 
 
 
-<div style="text-align:center;">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=Monokai&theme=dracula" style="width:100%">
-<img src="assets/bottom-banner.gif" alt="Readme Quotes" style="width:100%">
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=Monokai&theme=dracula" style="width:80%">
+
 </div>
 
 
