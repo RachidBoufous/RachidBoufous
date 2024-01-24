@@ -3,18 +3,19 @@
 <div style="text-align:center;">
     <img src="assets/header-img.png" alt="Readme Quotes" style="width:100%">
 
-
 ![](https://komarev.com/ghpvc/?username=RachidBoufous&label=PROFILE+VIEWS+👁️+%20+%20+%20)
 
 </div>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=25&duration=2000&pause=1000&color=000000&center=true&multiline=true&random=false&width=1000&height=100&lines=Memento+Mori+%F0%9F%92%80;Memento+Vivere+%F0%9F%A7%AC;Vivamus+Moriendum+Est.+)](https://git.io/typing-svg)
-
 <div style="text-align:center;">
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rachid.bfs.1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rachid_bfs_se) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rachidboufous) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/bfsrachid) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/rachid-boufous) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/LlBfs) 
 
 </div
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=25&duration=2000&pause=1000&color=000000&center=true&multiline=true&random=false&width=1000&height=100&lines=Memento+Mori+%F0%9F%92%80;Memento+Vivere+%F0%9F%A7%AC;Vivamus+Moriendum+Est.+)](https://git.io/typing-svg)
+
+
 
 
 
