@@ -33,7 +33,7 @@
 - 🔭 I’m currently working on [Calleebree](https://www.calleebree.io) at [LAEDX](https://www.laedx.com/) and [TWISTAG](https://twistag.com/)
 - 🌱 I’m currently experimenting with **RUST**  building <a href="https://github.com/RachidBoufous/candle" target="blank"> Candle🕯️- a terminal based text editor</a>
 - 🤓 Ask me Anything, If i don't know the answer i will probably lie about it - but ask me anyway -
-
+- 🌱 I’m currently re-visiting DSA.
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=Monokai&theme=dracula" style="width:90%">
 </div>
@@ -43,18 +43,18 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=RachidBoufous&label=PROFILE+VIEWS+👁️+%20+%20+%20)
+![](https://komarev.com/ghpvc/?username=RachidBoufous&label=PROFILE+VIEWS+👁️+%20+%20+%20) 
 
-</div>
+</div> 
 
 |<img align="center" src="https://github-readme-stats.vercel.app/api?username=RachidBoufous&show_icons=true&hide_border=true" alt="Rachid Boufous github stats" />| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RachidBoufous&layout=compact&theme=buefy&hide_border=true" /> |
-| ------------- | ------------- |
+| ------------- | ------------- | 
 
 <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=RachidBoufous&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=800&type=png)](https://git.io/streak-stats" alt="Rachid Boufous github stats" />
 
 
 
-
+ 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=RachidBoufous&theme=algolia&margin-w=5&margin-h=5&no-bg=true&rank=SECRET,S,SS,S,AAA,AA,A,B,C&row=2&column=6" alt="Trophies" style="width: 100%;" >  
 </div>
@@ -64,7 +64,7 @@
 
 
 
-# Languages and Tools:
+# Languages and Tools: 
 
 |Mobile| <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a><a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/></a> <a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a><a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a><a href="https://ionicframework.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/></a> |
 | :-------------: | :-------------: |
@@ -80,7 +80,7 @@
 
 
 
-# Stalk me 😒:
+# Stalk me:
 
 
 <div align="center">
