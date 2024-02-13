@@ -30,10 +30,12 @@
 
 
 # About me:
-- 🔭 I’m currently working on [Calleebree](https://www.calleebree.io) at [LAEDX](https://www.laedx.com/) and [TWISTAG](https://twistag.com/)
-- 🌱 I’m currently experimenting with **RUST**  building <a href="https://github.com/RachidBoufous/candle" target="blank"> Candle🕯️- a terminal based text editor</a>
-- 🤓 Ask me Anything, If i don't know the answer i will probably lie about it - but ask me anyway -
-- 🌱 I’m currently re-visiting DSA.
+- I’m currently: 
+    - 🔭 Working on [Calleebree](https://www.calleebree.io) at [LAEDX](https://www.laedx.com/) and [TWISTAG](https://twistag.com/)
+    - 🌱 Experimenting with **RUST**  building <a href="https://github.com/RachidBoufous/candle" target="blank"> Candle🕯️- a terminal based text editor</a>
+    - 🤓 Re-visiting DSA.
+    - ⁉️ Need Help ? Ask me Anything.
+
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=Monokai&theme=dracula" style="width:90%">
 </div>
