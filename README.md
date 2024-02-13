@@ -33,7 +33,7 @@
 - I’m currently: 
     - 🔭 Working on [Calleebree](https://www.calleebree.io) at [LAEDX](https://www.laedx.com/) and [TWISTAG](https://twistag.com/)
     - 🌱 Experimenting with **RUST**  building <a href="https://github.com/RachidBoufous/candle" target="blank"> Candle🕯️- a terminal based text editor</a>
-    - 🤓 Re-visiting DSA.
+    - 🤓 Re-visiting **DSA**.
     - ⁉️ Need Help ? Ask me Anything.
 
 <div align="center">
