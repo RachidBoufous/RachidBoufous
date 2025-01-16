@@ -31,7 +31,6 @@
 
 # About me:
 - I’m currently: 
-    - 🔭 Working on [Calleebree](https://www.calleebree.io) through [LAEDX](https://www.laedx.com/) and [TWISTAG](https://twistag.com/)
     - 🌱 Experimenting with **ELIXIR**
     - 🤓 Re-visiting **DSA**.
     - ⁉️ Need Help ? Ask me Anything.
